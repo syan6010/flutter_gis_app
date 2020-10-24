@@ -1,4 +1,4 @@
-app\google-services.json
+/app/.json
 gradle-wrapper.jar
 /.gradle
 /captures/
