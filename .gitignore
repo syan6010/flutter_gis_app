@@ -41,4 +41,4 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
-
+google-services.json
